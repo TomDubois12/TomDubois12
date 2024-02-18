@@ -17,7 +17,7 @@ Je consacre une partie de mon temps libre au développement de petites applicati
 
 Je suis également attiré par le management d'équipe informatique. :100:
 
-Mon intérêt pour l'ingénierie informatique m'amène à rechercher constamment l'innovation, en combinant mathématiques, programmation et créativité. 💡
+Mon intérêt pour l'ingénierie informatique m'amène à rechercher constamment l'innovation, en combinant programmation et créativité. 💡
 
 Je suis toujours avide d'apprendre et d'élargir mes connaissances. 😀
 
