@@ -30,4 +30,3 @@ Vous pouvez découvrir certains de mes projets dans mon dépôt public (en cours
 Vous pouvez me contacter via :
 
 - Email: tom.dubois12@gmail.com
-- Discord: steakos
