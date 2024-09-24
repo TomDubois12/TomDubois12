@@ -6,11 +6,11 @@ Je suis Tom, un passionné de développement informatique en tout genre, actuell
 
 ### Je me concentre principalement sur :
 
-> - HTML, CSS, JavaScript
+> - HTML, CSS, SCSS, JavaScript
 > - React, ReactNative, Next
 > - MySQL (mariaDB, SQLite)
 > - PHP
-> - Python, Flask
+> - Python, Flask, DJango
 > - Java, JavaFX
 > - Flutter (dart)
 
