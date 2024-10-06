@@ -15,6 +15,7 @@ Je suis Tom, un passionné de développement informatique en tout genre, actuell
 > - Flutter (dart)
 
 Je consacre une partie de mon temps libre au développement de petites applications web, explorant ainsi de nouvelles fonctionnalités et améliorant mes compétences en matière de conception responsive, d'animations et d'ergonomie.
+
 Je pratique également le piano depuis plus de 12 ans. 🎵
 
 Je suis également attiré par le management d'équipe informatique. :100:
