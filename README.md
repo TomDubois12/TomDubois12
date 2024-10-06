@@ -26,6 +26,7 @@ Je suis toujours avide d'apprendre et d'élargir mes connaissances. 😀
 ### Expériences professionnelles et projets 👨‍💼
 
 J'ai eu la chance de pouvoir faire partie de l'équipe de KALONYS pendant la durée d'un stage de 2 mois !
+
 Vous pouvez découvrir certains de mes projets dans mon dépôt public (en cours d'alimentation), comprenant principalement des projets de cours. N'hésitez pas à explorer !
 
 
