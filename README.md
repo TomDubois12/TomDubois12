@@ -2,7 +2,7 @@
 
 ### Qui suis-je ? 👨‍💻
 
-Je suis Tom, un passionné de développement informatique en tout genre, actuellement principalement dans le WEB, âgé de 19 ans j'étudie en BUT informatique. 📚
+Je suis Tom, un passionné de développement informatique en tout genre, actuellement principalement dans le WEB, âgé de 20 ans j'étudie en BUT informatique. 📚
 
 ### Technologies déjà utilisées dans divers projets :
 
