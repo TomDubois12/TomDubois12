@@ -1,38 +1,32 @@
-﻿## Bienvenue sur mon profil GitHub! 👋
+## Bienvenue sur mon profil GitHub! 👋  
 
-### Qui suis-je ? 👨‍💻
+### Qui suis-je ? 👨‍💻  
 
-Je suis Tom, un passionné de développement informatique en tout genre, actuellement principalement dans le WEB, âgé de 20 ans j'étudie en BUT informatique. 📚
+Je suis Tom, un passionné de développement informatique, actuellement spécialisé dans le web et l'intelligence artificielle. J'ai 20 ans et j'étudie en BUT informatique. 📚  
 
-### Technologies déjà utilisées dans divers projets :
+### Technologies déjà utilisées dans divers projets :  
 
-> - HTML, CSS, SCSS, JavaScript
-> - React, ReactNative, Next
-> - MySQL (mariaDB, SQLite)
-> - PHP
-> - Python, Flask, DJango
-> - Java, JavaFX
-> - Flutter (dart)
+> - **Web & Mobile** : HTML, CSS, SCSS, JavaScript, React, ReactNative, Next.js, Flutter (Dart)  
+> - **Back-end & Bases de données** : PHP, Python (Flask, Django), Java, JavaFX, MySQL (MariaDB, SQLite)  
+> - **Intelligence Artificielle & Data Science** :  
+>   - Traitement du langage naturel (NLP) avec **BERT**, **Sentence Transformers**  
+>   - Recherche sémantique et vectorisation de texte avec **Semantic Scholar API**, **FAISS**  
+>   - Manipulation et analyse de données avec **Pandas**, **Neo4j**, **Pyvis**  
 
-Je consacre une partie de mon temps libre au développement de petites applications web, explorant ainsi de nouvelles fonctionnalités et améliorant mes compétences en matière de conception responsive, d'animations et d'ergonomie.
+Je consacre une partie de mon temps libre au développement de projets web et IA, explorant de nouvelles technologies et optimisant mes compétences en conception d’interfaces, en data science et en intelligence artificielle appliquée.  
 
-Je pratique également le piano depuis plus de 12 ans. 🎵
+Je pratique également le piano depuis plus de 12 ans. 🎵  
 
-Je suis également attiré par le management d'équipe informatique. :100:
+Passionné par la gestion de projet et le management d’équipe en informatique, j’aime allier développement, innovation et organisation. 💡  
 
-Mon intérêt pour l'informatique en général m'amène à rechercher constamment l'innovation, en combinant programmation et créativité. 💡
+### Expériences professionnelles et projets 👨‍💼  
 
-Je suis toujours avide d'apprendre et d'élargir mes connaissances. 😀
+- **BiblioLectIA** 📚🤖 : Développement d’un moteur de recherche sémantique basé sur BERT pour explorer une base bibliographique et optimiser la recherche d’articles scientifiques.  
+- **Projet Neo4j** 🎭📊 : Modélisation et analyse de données culturelles (films, tableaux, relations entre artistes) à l’aide de bases de graphes et de Cypher.  
+- **Stage chez KALONYS** 🏢 : 2 mois d’immersion en entreprise, avec du développement web et back-end.  
 
-### Expériences professionnelles et projets 👨‍💼
+Vous pouvez découvrir certains de mes projets sur mon GitHub (en constante évolution) !  
 
-J'ai eu la chance de pouvoir faire partie de l'équipe de KALONYS pendant la durée d'un stage de 2 mois !
+## Contact 📫  
 
-Vous pouvez découvrir certains de mes projets dans mon dépôt public (en cours d'alimentation), comprenant principalement des projets de cours. N'hésitez pas à explorer !
-
-
-# Contact 📫
-
-Vous pouvez me contacter via :
-
-- Email: tom.dubois12@gmail.com
+- **Email** : tom.dubois12@gmail.com  
